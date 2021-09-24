@@ -48,3 +48,6 @@ Separate instances of the strategyengine will manage a portfolios of investments
 # More information
 For more information see [https://www.strategyengine.one](https://www.strategyengine.one)
 
+
+* ![](roadmap.png?img_id=9&sbid=140421&w=300)
+
