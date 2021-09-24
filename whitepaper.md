@@ -46,7 +46,10 @@ A strategyengine lifecycle begins with prefunding of a new investment portfolio 
 - SSE token distributions are triggered by the need for component testing
     - September 19000 SSE (multiple drops)
     - Future - TBD based on QA need of the strategyengine components and evolution of the Songbird ecosystem
-    
+  
+# High Level Integrations
+
+![](integrationdiagram.png?img_id=9&sbid=140421&w=300)  
     
 # More information
 For more information see [https://www.strategyengine.one](https://www.strategyengine.one)
