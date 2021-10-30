@@ -21,6 +21,8 @@
     - rMDQTunsjE32sAkBDbwixpWr8TJdN5YLxu 
 
 # Description
+
+![](vincent_svg.svg?img_id=9&sbid=140421&w=5) 
 The strategy engine system (strategyengine) is comprised of a set of applications, services and/or decentralized contracts to facilitate automated investments in a ML (machine learning) determined optimal strategy.  The strategyengine components integrate and interoperate such that event streams supply real time data to the machine learning component which runs simulations determining the most fit strategy.  Fitness, weighted by investment yield, referring to the ability of any strategy to be passed on and combined in future generations of strategies.  Less fit strategies are pruned while the most fit strategy at any time can be purchased using the payment tokens.  Strategies previously determined to have high fitness can become unfit and ultimately pruned as investment yields and asset prices change over time.  
 
 Separate instances of the strategyengine will manage portfolios of investments focused in the Flare ecosystem or Songbird ecosystem.   A portion of payment tokens will be used to prefund the portfolio management components to allow for purchasing the initial strategies for any new lifecycle. Investment allocations within a portfolio are solely based on the latest purchased strategy.  A configured percentage of the investment profit is apportioned to be exchanged for payment tokens for Flare ecosystem strategies or Songbird ecosystem strategies.  
@@ -33,14 +35,14 @@ A strategyengine lifecycle begins with prefunding of a new investment portfolio 
 # Distribution
 
 - FSE token distributions
-    - July through September 16 - 70000 FSE (multiple drops to trustline holders)
+    - July through September 16 - 70000 FSE (multiple drops to verified trustline holders)
     - September: 10000 FSE (one scheduled drop)
     - October: 5000 FSE (one scheduled drop)
     - November: 3000 FSE (one scheduled drop)
     - December: 2000 FSE (one scheduled drop)
     - January: 1000 FSE (one scheduled drop)
     - February: 1000 FSE (one scheduled drop)
-    - 92% of tokens will be distributed to trustline holders by the end of the airdrop schedule.  The remainder will be used for activities including but not limited to initiating new lifecycles of the strategy engine, purchase of promotional media and resources directly related to running the strategyengine (cloud, hardware & software)
+    - 92% of tokens will be distributed to verified trustline holders by the end of the airdrop schedule.  The remainder will be used for activities including but not limited to initiating new lifecycles of the strategy engine, purchase of promotional media and resources directly related to running the strategyengine (cloud, hardware & software)
 
 
 - SSE token distributions are triggered by the need for component testing
