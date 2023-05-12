@@ -27,7 +27,7 @@ The strategy engine system (strategyengine) is comprised of a set of application
 
 Separate instances of the strategyengine will manage portfolios of investments focused in the Flare ecosystem or Songbird ecosystem.   A portion of payment tokens will be used to prefund the portfolio management components to allow for purchasing the initial strategies for any new lifecycle. Investment allocations within a portfolio are solely based on the latest purchased strategy.  A configured percentage of the investment profit is apportioned to be exchanged for payment tokens for Flare ecosystem strategies or Songbird ecosystem strategies.  
 
-A strategyengine lifecycle begins with prefunding of a new investment portfolio and an initial purchase and allocation of funds within that portfolio.  An iteration within a lifecycle is defined as the period that one strategy is applied to a portfolio.  The iteration interval and percent profit allowed for payment token purchases are locked for a given lifecycle but flexible between lifecycles.  An iteration is outdated when a single strategy has been running beyond the iteration interval and becomes spoiled if the strategy runs beyond four intervals.  An outdated interval triggers the need apply a new strategy to the portfolio. When no payment tokens can be acquired by the system and the current strategy is determined to be spoiled, the system will attempt to reallocate the portfolio to XRP.  When the payment token is FSE or SSE, the entire portfolio is distributed to the payment token holders pro rata.
+A strategyengine lifecycle begins with prefunding of a new investment portfolio and an initial purchase and allocation of funds within that portfolio.  An iteration within a lifecycle is defined as the period that one strategy is applied to a portfolio.  The iteration interval and percent profit allowed for payment token purchases are locked for a given lifecycle but flexible between lifecycles.  An iteration is outdated when a single strategy has been running beyond the iteration interval and becomes spoiled if the strategy runs beyond four intervals.  An outdated interval triggers the need apply a new strategy to the portfolio. When no payment tokens can be acquired by the system and the current strategy is determined to be spoiled, the system will attempt to reallocate the portfolio.  The entire portfolio is distributed to the chosen token holders pro rata.
 
 * ![](lifecycle.png?img_id=9&sbid=140421&w=300)
 
@@ -57,5 +57,4 @@ A strategyengine lifecycle begins with prefunding of a new investment portfolio 
 For more information see [https://www.strategyengine.one](https://www.strategyengine.one)
 
 
-* ![](roadmap.png?img_id=9&sbid=140421&w=300)
 
